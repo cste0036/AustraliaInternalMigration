@@ -1,0 +1,55 @@
+<!DOCTYPE HTML>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>FIT5147-DVP-CallumStein</title>
+    <link rel="stylesheet" type="text/css" href="stylesheet.css">
+    <script src="https://d3js.org/d3.v4.js"></script>
+</head>
+
+<body>
+
+    <div style="text-align: left;">
+        <div class="side-bar">
+            <h2>Internal Migration of Australians Dashboard</h2>
+            <p>The year displayed can be adjusted using the slider.</p>
+            <p>
+                <label for="nYear">
+                    year = <span id="nYear-value">...</span>
+                </label>
+                <br>
+                <input type="range" min="3" max="21" id="nYear">
+            </p>
+            <h3>Data provided by the ABS.</h3>
+            <p>The Australian migration dashboard provides information of the movements of Australian people over the last 20 years.</p>
+            <p>
+                As a highly mobile nationality with some of the highest internal migration in the world. Monitoring these movements and the socio-economic factors that affect them is important to understanding the Australian people.
+
+            </p>
+            <p><b>Red markers</b> mean a negative net migration.<br><br><b>Green markers</b> mean a positive net migration.</p>
+
+            <h3>How to Use.</h3>
+            <p>Clicking on a state will provide additional information on the distribution of employment amongst commercial industries for that state.</p>
+            <p>each element can be hovered to provide the numeric value.</p>
+        </div>
+
+        <div class="map">
+            <svg id="map" width="1500px" height="1000px"></svg>
+        </div>
+
+        <div class="bar">
+            <svg id="bar" width="600px" height="500px"></svg>
+        </div>
+
+        <div class="donut">
+            <svg id="donut" width="400px" height="400px"></svg>
+        </div>
+    </div>
+
+</body>
+<!-- Import D3 and SVG scripts -->
+<script type="text/javascript" src="scripts/script.js"></script>
+
+</html>

@@ -1,0 +1,561 @@
+[{
+        "routeId": 1,
+        "routeDetail": "NSW to QLD",
+        "start": "New South Wales",
+        "end": "Queensland",
+        "routeCoords": {
+            "startCoords": [1109.1649876534298, 525.8060289602937],
+            "endCoords": [1066.9141333355792, 338.6111912522808]
+        }
+    },
+    {
+        "routeId": 2,
+        "routeDetail": "NSW to NT",
+        "start": "New South Wales",
+        "end": "Northern Territory",
+        "routeCoords": {
+            "startCoords": [1109.1649876534298, 525.8060289602937],
+            "endCoords": [871.0929595656122, 279.1733924444953]
+        }
+    },
+    {
+        "routeId": 3,
+        "routeDetail": "NSW to WA",
+        "start": "New South Wales",
+        "end": "Western Australia",
+        "routeCoords": {
+            "startCoords": [1109.1649876534298, 525.8060289602937],
+            "endCoords": [674.9351692176515, 396.3501638921841]
+        }
+    },
+    {
+        "routeId": 4,
+        "routeDetail": "NSW to SA",
+        "start": "New South Wales",
+        "end": "South Australia",
+        "routeCoords": {
+            "startCoords": [1109.1649876534298, 525.8060289602937],
+            "endCoords": [914.8155306377707, 485.1199393786785]
+        }
+    },
+    {
+        "routeId": 5,
+        "routeDetail": "NSW to VIC",
+        "start": "New South Wales",
+        "end": "Victoria",
+        "routeCoords": {
+            "startCoords": [1109.1649876534298, 525.8060289602937],
+            "endCoords": [1062.1333328215464, 623.8734510470566]
+        }
+    },
+    {
+        "routeId": 6,
+        "routeDetail": "NSW to ACT",
+        "start": "New South Wales",
+        "end": "Australian Capital Territory",
+        "routeCoords": {
+            "startCoords": [1109.1649876534298, 525.8060289602937],
+            "endCoords": [1143.9056828741052, 594.0142657803358]
+        }
+    },
+    {
+        "routeId": 7,
+        "routeDetail": "NSW to TAS",
+        "start": "New South Wales",
+        "end": "Tasmania",
+        "routeCoords": {
+            "startCoords": [1109.1649876534298, 525.8060289602937],
+            "endCoords": [1101.9348361154143, 738.7199588798892]
+        }
+    },
+    {
+        "routeId": 8,
+        "routeDetail": "QLD to NSW",
+        "start": "Queensland",
+        "end": "New South Wales",
+        "routeCoords": {
+            "startCoords": [1066.9141333355792, 338.6111912522808],
+            "endCoords": [1109.1649876534298, 525.8060289602937]
+        }
+    },
+    {
+        "routeId": 9,
+        "routeDetail": "QLD to NT",
+        "start": "Queensland",
+        "end": "Northern Territory",
+        "routeCoords": {
+            "startCoords": [1066.9141333355792, 338.6111912522808],
+            "endCoords": [871.0929595656122, 279.1733924444953]
+        }
+    },
+    {
+        "routeId": 10,
+        "routeDetail": "QLD to WA",
+        "start": "Queensland",
+        "end": "Western Australia",
+        "routeCoords": {
+            "startCoords": [1066.9141333355792, 338.6111912522808],
+            "endCoords": [674.9351692176515, 396.3501638921841]
+        }
+    },
+    {
+        "routeId": 11,
+        "routeDetail": "QLD to SA",
+        "start": "Queensland",
+        "end": "South Australia",
+        "routeCoords": {
+            "startCoords": [1066.9141333355792, 338.6111912522808],
+            "endCoords": [914.8155306377707, 485.1199393786785]
+        }
+    },
+    {
+        "routeId": 12,
+        "routeDetail": "QLD to VIC",
+        "start": "Queensland",
+        "end": "Victoria",
+        "routeCoords": {
+            "startCoords": [1066.9141333355792, 338.6111912522808],
+            "endCoords": [1062.1333328215464, 623.8734510470566]
+        }
+    },
+    {
+        "routeId": 13,
+        "routeDetail": "QLD to ACT",
+        "start": "Queensland",
+        "end": "Australian Capital Territory",
+        "routeCoords": {
+            "startCoords": [1066.9141333355792, 338.6111912522808],
+            "endCoords": [1143.9056828741052, 594.0142657803358]
+        }
+    },
+    {
+        "routeId": 14,
+        "routeDetail": "QLD to TAS",
+        "start": "Queensland",
+        "end": "Tasmania",
+        "routeCoords": {
+            "startCoords": [1066.9141333355792, 338.6111912522808],
+            "endCoords": [1101.9348361154143, 738.7199588798892]
+        }
+    },
+    {
+        "routeId": 15,
+        "routeDetail": "NT to NSW",
+        "start": "Northern Territory",
+        "end": "New South Wales",
+        "routeCoords": {
+            "startCoords": [871.0929595656122, 279.1733924444953],
+            "endCoords": [1109.1649876534298, 525.8060289602937]
+        }
+    },
+    {
+        "routeId": 16,
+        "routeDetail": "NT to QLD",
+        "start": "Northern Territory",
+        "end": "Queensland",
+        "routeCoords": {
+            "startCoords": [871.0929595656122, 279.1733924444953],
+            "endCoords": [1066.9141333355792, 338.6111912522808]
+        }
+    },
+    {
+        "routeId": 17,
+        "routeDetail": "NT to WA",
+        "start": "Northern Territory",
+        "end": "Western Australia",
+        "routeCoords": {
+            "startCoords": [871.0929595656122, 279.1733924444953],
+            "endCoords": [674.9351692176515, 396.3501638921841]
+        }
+    },
+    {
+        "routeId": 18,
+        "routeDetail": "NT to SA",
+        "start": "Northern Territory",
+        "end": "South Australia",
+        "routeCoords": {
+            "startCoords": [871.0929595656122, 279.1733924444953],
+            "endCoords": [914.8155306377707, 485.1199393786785]
+        }
+    },
+    {
+        "routeId": 19,
+        "routeDetail": "NT to VIC",
+        "start": "Northern Territory",
+        "end": "Victoria",
+        "routeCoords": {
+            "startCoords": [871.0929595656122, 279.1733924444953],
+            "endCoords": [1062.1333328215464, 623.8734510470566]
+        }
+    },
+    {
+        "routeId": 20,
+        "routeDetail": "NT to ACT",
+        "start": "Northern Territory",
+        "end": "Australian Capital Territory",
+        "routeCoords": {
+            "startCoords": [871.0929595656122, 279.1733924444953],
+            "endCoords": [1143.9056828741052, 594.0142657803358]
+        }
+    },
+    {
+        "routeId": 21,
+        "routeDetail": "NT to TAS",
+        "start": "Northern Territory",
+        "end": "Tasmania",
+        "routeCoords": {
+            "startCoords": [871.0929595656122, 279.1733924444953],
+            "endCoords": [1101.9348361154143, 738.7199588798892]
+        }
+    },
+    {
+        "routeId": 22,
+        "routeDetail": "WA to NSW",
+        "start": "Western Australia",
+        "end": "New South Wales",
+        "routeCoords": {
+            "startCoords": [674.9351692176515, 396.3501638921841],
+            "endCoords": [1109.1649876534298, 525.8060289602937]
+        }
+    },
+    {
+        "routeId": 23,
+        "routeDetail": "WA to QLD",
+        "start": "Western Australia",
+        "end": "Queensland",
+        "routeCoords": {
+            "startCoords": [674.9351692176515, 396.3501638921841],
+            "endCoords": [1066.9141333355792, 338.6111912522808]
+        }
+    },
+    {
+        "routeId": 24,
+        "routeDetail": "WA to NT",
+        "start": "Western Australia",
+        "end": "Northern Territory",
+        "routeCoords": {
+            "startCoords": [674.9351692176515, 396.3501638921841],
+            "endCoords": [871.0929595656122, 279.1733924444953]
+        }
+    },
+    {
+        "routeId": 25,
+        "routeDetail": "WA to SA",
+        "start": "Western Australia",
+        "end": "South Australia",
+        "routeCoords": {
+            "startCoords": [674.9351692176515, 396.3501638921841],
+            "endCoords": [914.8155306377707, 485.1199393786785]
+        }
+    },
+    {
+        "routeId": 26,
+        "routeDetail": "WA to VIC",
+        "start": "Western Australia",
+        "end": "Victoria",
+        "routeCoords": {
+            "startCoords": [674.9351692176515, 396.3501638921841],
+            "endCoords": [1062.1333328215464, 623.8734510470566]
+        }
+    },
+    {
+        "routeId": 27,
+        "routeDetail": "WA to ACT",
+        "start": "Western Australia",
+        "end": "Australian Capital Territory",
+        "routeCoords": {
+            "startCoords": [674.9351692176515, 396.3501638921841],
+            "endCoords": [1143.9056828741052, 594.0142657803358]
+        }
+    },
+    {
+        "routeId": 28,
+        "routeDetail": "WA to TAS",
+        "start": "Western Australia",
+        "end": "Tasmania",
+        "routeCoords": {
+            "startCoords": [674.9351692176515, 396.3501638921841],
+            "endCoords": [1101.9348361154143, 738.7199588798892]
+        }
+    },
+    {
+        "routeId": 29,
+        "routeDetail": "SA to NSW",
+        "start": "South Australia",
+        "end": "New South Wales",
+        "routeCoords": {
+            "startCoords": [914.8155306377707, 485.1199393786785],
+            "endCoords": [1109.1649876534298, 525.8060289602937]
+        }
+    },
+    {
+        "routeId": 30,
+        "routeDetail": "SA to QLD",
+        "start": "South Australia",
+        "end": "Queensland",
+        "routeCoords": {
+            "startCoords": [914.8155306377707, 485.1199393786785],
+            "endCoords": [1066.9141333355792, 338.6111912522808]
+        }
+    },
+    {
+        "routeId": 31,
+        "routeDetail": "SA to NT",
+        "start": "South Australia",
+        "end": "Northern Territory",
+        "routeCoords": {
+            "startCoords": [914.8155306377707, 485.1199393786785],
+            "endCoords": [871.0929595656122, 279.1733924444953]
+        }
+    },
+    {
+        "routeId": 32,
+        "routeDetail": "SA to WA",
+        "start": "South Australia",
+        "end": "Western Australia",
+        "routeCoords": {
+            "startCoords": [914.8155306377707, 485.1199393786785],
+            "endCoords": [674.9351692176515, 396.3501638921841]
+        }
+    },
+    {
+        "routeId": 33,
+        "routeDetail": "SA to VIC",
+        "start": "South Australia",
+        "end": "Victoria",
+        "routeCoords": {
+            "startCoords": [914.8155306377707, 485.1199393786785],
+            "endCoords": [1062.1333328215464, 623.8734510470566]
+        }
+    },
+    {
+        "routeId": 34,
+        "routeDetail": "SA to ACT",
+        "start": "South Australia",
+        "end": "Australian Capital Territory",
+        "routeCoords": {
+            "startCoords": [914.8155306377707, 485.1199393786785],
+            "endCoords": [1143.9056828741052, 594.0142657803358]
+        }
+    },
+    {
+        "routeId": 35,
+        "routeDetail": "SA to TAS",
+        "start": "South Australia",
+        "end": "Tasmania",
+        "routeCoords": {
+            "startCoords": [914.8155306377707, 485.1199393786785],
+            "endCoords": [1101.9348361154143, 738.7199588798892]
+        }
+    },
+    {
+        "routeId": 36,
+        "routeDetail": "VIC to NSW",
+        "start": "Victoria",
+        "end": "New South Wales",
+        "routeCoords": {
+            "startCoords": [1062.1333328215464, 623.8734510470566],
+            "endCoords": [1109.1649876534298, 525.8060289602937]
+        }
+    },
+    {
+        "routeId": 37,
+        "routeDetail": "VIC to QLD",
+        "start": "Victoria",
+        "end": "Queensland",
+        "routeCoords": {
+            "startCoords": [1062.1333328215464, 623.8734510470566],
+            "endCoords": [1066.9141333355792, 338.6111912522808]
+        }
+    },
+    {
+        "routeId": 38,
+        "routeDetail": "VIC to NT",
+        "start": "Victoria",
+        "end": "Northern Territory",
+        "routeCoords": {
+            "startCoords": [1062.1333328215464, 623.8734510470566],
+            "endCoords": [871.0929595656122, 279.1733924444953]
+        }
+    },
+    {
+        "routeId": 39,
+        "routeDetail": "VIC to WA",
+        "start": "Victoria",
+        "end": "Western Australia",
+        "routeCoords": {
+            "startCoords": [1062.1333328215464, 623.8734510470566],
+            "endCoords": [674.9351692176515, 396.3501638921841]
+        }
+    },
+    {
+        "routeId": 40,
+        "routeDetail": "VIC to SA",
+        "start": "Victoria",
+        "end": "South Australia",
+        "routeCoords": {
+            "startCoords": [1062.1333328215464, 623.8734510470566],
+            "endCoords": [914.8155306377707, 485.1199393786785]
+        }
+    },
+    {
+        "routeId": 41,
+        "routeDetail": "VIC to ACT",
+        "start": "Victoria",
+        "end": "Australian Capital Territory",
+        "routeCoords": {
+            "startCoords": [1062.1333328215464, 623.8734510470566],
+            "endCoords": [1143.9056828741052, 594.0142657803358]
+        }
+    },
+    {
+        "routeId": 42,
+        "routeDetail": "VIC to TAS",
+        "start": "Victoria",
+        "end": "Tasmania",
+        "routeCoords": {
+            "startCoords": [1062.1333328215464, 623.8734510470566],
+            "endCoords": [1101.9348361154143, 738.7199588798892]
+        }
+    },
+    {
+        "routeId": 43,
+        "routeDetail": "ACT to NSW",
+        "start": "Australian Capital Territory",
+        "end": "New South Wales",
+        "routeCoords": {
+            "startCoords": [1143.9056828741052, 594.0142657803358],
+            "endCoords": [1109.1649876534298, 525.8060289602937]
+        }
+    },
+    {
+        "routeId": 44,
+        "routeDetail": "ACT to QLD",
+        "start": "Australian Capital Territory",
+        "end": "Queensland",
+        "routeCoords": {
+            "startCoords": [1143.9056828741052, 594.0142657803358],
+            "endCoords": [1066.9141333355792, 338.6111912522808]
+        }
+    },
+    {
+        "routeId": 45,
+        "routeDetail": "ACT to NT",
+        "start": "Australian Capital Territory",
+        "end": "Northern Territory",
+        "routeCoords": {
+            "startCoords": [1143.9056828741052, 594.0142657803358],
+            "endCoords": [871.0929595656122, 279.1733924444953]
+        }
+    },
+    {
+        "routeId": 46,
+        "routeDetail": "ACT to WA",
+        "start": "Australian Capital Territory",
+        "end": "Western Australia",
+        "routeCoords": {
+            "startCoords": [1143.9056828741052, 594.0142657803358],
+            "endCoords": [674.9351692176515, 396.3501638921841]
+        }
+    },
+    {
+        "routeId": 47,
+        "routeDetail": "ACT to SA",
+        "start": "Australian Capital Territory",
+        "end": "South Australia",
+        "routeCoords": {
+            "startCoords": [1143.9056828741052, 594.0142657803358],
+            "endCoords": [914.8155306377707, 485.1199393786785]
+        }
+    },
+    {
+        "routeId": 48,
+        "routeDetail": "ACT to VIC",
+        "start": "Australian Capital Territory",
+        "end": "Victoria",
+        "routeCoords": {
+            "startCoords": [1143.9056828741052, 594.0142657803358],
+            "endCoords": [1062.1333328215464, 623.8734510470566]
+        }
+    },
+    {
+        "routeId": 49,
+        "routeDetail": "ACT to TAS",
+        "start": "Australian Capital Territory",
+        "end": "Tasmania",
+        "routeCoords": {
+            "startCoords": [1143.9056828741052, 594.0142657803358],
+            "endCoords": [1101.9348361154143, 738.7199588798892]
+        }
+    },
+    {
+        "routeId": 43,
+        "routeDetail": "TAS to NSW",
+        "start": "Tasmania",
+        "end": "New South Wales",
+        "routeCoords": {
+            "startCoords": [1101.9348361154143, 738.7199588798892],
+            "endCoords": [1109.1649876534298, 525.8060289602937]
+        }
+    },
+    {
+        "routeId": 44,
+        "routeDetail": "TAS to QLD",
+        "start": "Tasmania",
+        "end": "Queensland",
+        "routeCoords": {
+            "startCoords": [1101.9348361154143, 738.7199588798892],
+            "endCoords": [1066.9141333355792, 338.6111912522808]
+        }
+    },
+    {
+        "routeId": 45,
+        "routeDetail": "TAS to NT",
+        "start": "Tasmania",
+        "end": "Northern Territory",
+        "routeCoords": {
+            "startCoords": [1101.9348361154143, 738.7199588798892],
+            "endCoords": [871.0929595656122, 279.1733924444953]
+        }
+    },
+    {
+        "routeId": 46,
+        "routeDetail": "TAS to WA",
+        "start": "Tasmania",
+        "end": "Western Australia",
+        "routeCoords": {
+            "startCoords": [1101.9348361154143, 738.7199588798892],
+            "endCoords": [674.9351692176515, 396.3501638921841]
+        }
+    },
+    {
+        "routeId": 47,
+        "routeDetail": "TAS to SA",
+        "start": "Tasmania",
+        "end": "South Australia",
+        "routeCoords": {
+            "startCoords": [1101.9348361154143, 738.7199588798892],
+            "endCoords": [914.8155306377707, 485.1199393786785]
+        }
+    },
+    {
+        "routeId": 48,
+        "routeDetail": "TAS to VIC",
+        "start": "Tasmania",
+        "end": "Victoria",
+        "routeCoords": {
+            "startCoords": [1101.9348361154143, 738.7199588798892],
+            "endCoords": [1062.1333328215464, 623.8734510470566]
+        }
+    },
+    {
+        "routeId": 49,
+        "routeDetail": "TAS to ACT",
+        "start": "Tasmania",
+        "end": "Australian Capital Territory",
+        "routeCoords": {
+            "startCoords": [1101.9348361154143, 738.7199588798892],
+            "endCoords": [1143.9056828741052, 594.0142657803358]
+        }
+    }
+]

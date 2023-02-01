@@ -1,0 +1,481 @@
+year,State,current.month,Persons
+2002,Australian Capital Territory,Employed full-time,1222692.671
+2002,Australian Capital Territory,Employed part-time,455809.8396
+2002,Australian Capital Territory,Unemployed,39568.4553
+2002,New South Wales,Employed full-time,26612083.31
+2002,New South Wales,Employed part-time,9580077.768
+2002,New South Wales,Unemployed,2149277.854
+2002,Northern Territory,Employed full-time,569505.7542
+2002,Northern Territory,Employed part-time,181864.9825
+2002,Northern Territory,Unemployed,28222.24598
+2002,Queensland,Employed full-time,13749533.1
+2002,Queensland,Employed part-time,5824446.704
+2002,Queensland,Unemployed,1468532.008
+2002,South Australia,Employed full-time,5190627.33
+2002,South Australia,Employed part-time,2437882.053
+2002,South Australia,Unemployed,422572.2561
+2002,Tasmania,Employed full-time,1342848.181
+2002,Tasmania,Employed part-time,616498.5148
+2002,Tasmania,Unemployed,159477.0204
+2002,Victoria,Employed full-time,19192900.27
+2002,Victoria,Employed part-time,7567122.264
+2002,Victoria,Unemployed,1495284.558
+2002,Western Australia,Employed full-time,7200603.528
+2002,Western Australia,Employed part-time,3283292.238
+2002,Western Australia,Unemployed,607634.5226
+2003,Australian Capital Territory,Employed full-time,2294286.351
+2003,Australian Capital Territory,Employed part-time,941400.5928
+2003,Australian Capital Territory,Unemployed,106562.1329
+2003,New South Wales,Employed full-time,51472080.6
+2003,New South Wales,Employed part-time,19938677.84
+2003,New South Wales,Unemployed,4065644.818
+2003,Northern Territory,Employed full-time,1161362.138
+2003,Northern Territory,Employed part-time,364880.8812
+2003,Northern Territory,Unemployed,59897.02686
+2003,Queensland,Employed full-time,28289894.83
+2003,Queensland,Employed part-time,12106589.01
+2003,Queensland,Unemployed,2794516.784
+2003,South Australia,Employed full-time,10331753.03
+2003,South Australia,Employed part-time,4845929.881
+2003,South Australia,Unemployed,833746.2992
+2003,Tasmania,Employed full-time,2756004.598
+2003,Tasmania,Employed part-time,1244497.593
+2003,Tasmania,Unemployed,274883.0818
+2003,Victoria,Employed full-time,37122824.75
+2003,Victoria,Employed part-time,16138602.44
+2003,Victoria,Unemployed,3030418.353
+2003,Western Australia,Employed full-time,14761687.75
+2003,Western Australia,Employed part-time,6464693.152
+2003,Western Australia,Unemployed,1187577.323
+2004,Australian Capital Territory,Employed full-time,2369628.286
+2004,Australian Capital Territory,Employed part-time,905692.8777
+2004,Australian Capital Territory,Unemployed,91873.50816
+2004,New South Wales,Employed full-time,52472898.22
+2004,New South Wales,Employed part-time,19963939.78
+2004,New South Wales,Unemployed,3706850.044
+2004,Northern Territory,Employed full-time,1134849.605
+2004,Northern Territory,Employed part-time,351007.9406
+2004,Northern Territory,Unemployed,70512.50378
+2004,Queensland,Employed full-time,30438626.92
+2004,Queensland,Employed part-time,12055036.7
+2004,Queensland,Unemployed,2279910.453
+2004,South Australia,Employed full-time,10734681.04
+2004,South Australia,Employed part-time,4976425.674
+2004,South Australia,Unemployed,782261.7372
+2004,Tasmania,Employed full-time,2782396.592
+2004,Tasmania,Employed part-time,1351115.711
+2004,Tasmania,Unemployed,230883.1248
+2004,Victoria,Employed full-time,38778700.09
+2004,Victoria,Employed part-time,16278968.89
+2004,Victoria,Unemployed,2945670.596
+2004,Western Australia,Employed full-time,14375645.63
+2004,Western Australia,Employed part-time,6625946.348
+2004,Western Australia,Unemployed,1012424.765
+2005,Australian Capital Territory,Employed full-time,2495387.57
+2005,Australian Capital Territory,Employed part-time,907296.8007
+2005,Australian Capital Territory,Unemployed,74714.14855
+2005,New South Wales,Employed full-time,52469694.33
+2005,New South Wales,Employed part-time,20795905.56
+2005,New South Wales,Unemployed,3832006.656
+2005,Northern Territory,Employed full-time,1127336.22
+2005,Northern Territory,Employed part-time,298672.3847
+2005,Northern Territory,Unemployed,51948.49788
+2005,Queensland,Employed full-time,32026243.27
+2005,Queensland,Employed part-time,12832849.54
+2005,Queensland,Unemployed,1926487.145
+2005,South Australia,Employed full-time,10698162.46
+2005,South Australia,Employed part-time,5114461.971
+2005,South Australia,Unemployed,720885.1386
+2005,Tasmania,Employed full-time,2892951.024
+2005,Tasmania,Employed part-time,1423783.757
+2005,Tasmania,Unemployed,229828.3554
+2005,Victoria,Employed full-time,39653583.02
+2005,Victoria,Employed part-time,16619980.84
+2005,Victoria,Unemployed,2926696.233
+2005,Western Australia,Employed full-time,15631308.07
+2005,Western Australia,Employed part-time,7032118.837
+2005,Western Australia,Unemployed,937933.156
+2006,Australian Capital Territory,Employed full-time,2663166.219
+2006,Australian Capital Territory,Employed part-time,897304.6311
+2006,Australian Capital Territory,Unemployed,77332.93794
+2006,New South Wales,Employed full-time,53525580.38
+2006,New South Wales,Employed part-time,21336355.49
+2006,New South Wales,Unemployed,3670447.782
+2006,Northern Territory,Employed full-time,1260351.736
+2006,Northern Territory,Employed part-time,334852.2284
+2006,Northern Territory,Unemployed,32295.3788
+2006,Queensland,Employed full-time,33661148.91
+2006,Queensland,Employed part-time,13238401.04
+2006,Queensland,Unemployed,1986518.956
+2006,South Australia,Employed full-time,10513489.6
+2006,South Australia,Employed part-time,5263165.706
+2006,South Australia,Unemployed,717617.943
+2006,Tasmania,Employed full-time,2927271.699
+2006,Tasmania,Employed part-time,1413183.482
+2006,Tasmania,Unemployed,245632.841
+2006,Victoria,Employed full-time,41097411.03
+2006,Victoria,Employed part-time,17262639.57
+2006,Victoria,Unemployed,2757607.958
+2006,Western Australia,Employed full-time,17040871.37
+2006,Western Australia,Employed part-time,7149016.158
+2006,Western Australia,Unemployed,714100.3478
+2007,Australian Capital Territory,Employed full-time,2756632.063
+2007,Australian Capital Territory,Employed part-time,883293.9866
+2007,Australian Capital Territory,Unemployed,65418.46834
+2007,New South Wales,Employed full-time,54806006.91
+2007,New South Wales,Employed part-time,21557891.74
+2007,New South Wales,Unemployed,3465800.891
+2007,Northern Territory,Employed full-time,1400297.052
+2007,Northern Territory,Employed part-time,338854.9742
+2007,Northern Territory,Unemployed,43946.93638
+2007,Queensland,Employed full-time,35785326.2
+2007,Queensland,Employed part-time,13403058.22
+2007,Queensland,Unemployed,1669336.954
+2007,South Australia,Employed full-time,11092485.36
+2007,South Australia,Employed part-time,5291288.917
+2007,South Australia,Unemployed,693544.4429
+2007,Tasmania,Employed full-time,3047169.231
+2007,Tasmania,Employed part-time,1389278.551
+2007,Tasmania,Unemployed,176087.1152
+2007,Victoria,Employed full-time,43061240.12
+2007,Victoria,Employed part-time,17718074.38
+2007,Victoria,Unemployed,2648916.899
+2007,Western Australia,Employed full-time,17816410.64
+2007,Western Australia,Employed part-time,7279450.748
+2007,Western Australia,Unemployed,725113.7843
+2008,Australian Capital Territory,Employed full-time,2538033.735
+2008,Australian Capital Territory,Employed part-time,855321.4808
+2008,Australian Capital Territory,Unemployed,61204.24775
+2008,New South Wales,Employed full-time,55216555.59
+2008,New South Wales,Employed part-time,22028848.89
+2008,New South Wales,Unemployed,3491657.593
+2008,Northern Territory,Employed full-time,1487295.749
+2008,Northern Territory,Employed part-time,430358.1577
+2008,Northern Territory,Unemployed,47123.81321
+2008,Queensland,Employed full-time,34361124.66
+2008,Queensland,Employed part-time,13736044.65
+2008,Queensland,Unemployed,1553409.486
+2008,South Australia,Employed full-time,10994712.15
+2008,South Australia,Employed part-time,5080024.784
+2008,South Australia,Unemployed,712042.7142
+2008,Tasmania,Employed full-time,2939638.704
+2008,Tasmania,Employed part-time,1370716.607
+2008,Tasmania,Unemployed,141476.6438
+2008,Victoria,Employed full-time,39713248.8
+2008,Victoria,Employed part-time,18185827.58
+2008,Victoria,Unemployed,2396820.168
+2008,Western Australia,Employed full-time,17788436.61
+2008,Western Australia,Employed part-time,6851237.742
+2008,Western Australia,Unemployed,578335.518
+2009,Australian Capital Territory,Employed full-time,2458787.876
+2009,Australian Capital Territory,Employed part-time,812722.682
+2009,Australian Capital Territory,Unemployed,83422.77797
+2009,New South Wales,Employed full-time,53996122.79
+2009,New South Wales,Employed part-time,22674389.05
+2009,New South Wales,Unemployed,4626408.527
+2009,Northern Territory,Employed full-time,1695873.892
+2009,Northern Territory,Employed part-time,387960.9669
+2009,Northern Territory,Unemployed,50562.79324
+2009,Queensland,Employed full-time,33454737.25
+2009,Queensland,Employed part-time,13870741.51
+2009,Queensland,Unemployed,2643908.547
+2009,South Australia,Employed full-time,10535861.28
+2009,South Australia,Employed part-time,5423976.418
+2009,South Australia,Unemployed,778259.9748
+2009,Tasmania,Employed full-time,2710828.15
+2009,Tasmania,Employed part-time,1466196.123
+2009,Tasmania,Unemployed,150328.7483
+2009,Victoria,Employed full-time,40472872.42
+2009,Victoria,Employed part-time,18909729.08
+2009,Victoria,Unemployed,3221223.111
+2009,Western Australia,Employed full-time,17107577.94
+2009,Western Australia,Employed part-time,7569364.691
+2009,Western Australia,Unemployed,1123707.348
+2010,Australian Capital Territory,Employed full-time,2535329.096
+2010,Australian Capital Territory,Employed part-time,934133.3335
+2010,Australian Capital Territory,Unemployed,72323.48778
+2010,New South Wales,Employed full-time,55893891.52
+2010,New South Wales,Employed part-time,23501846.76
+2010,New South Wales,Unemployed,3848201.38
+2010,Northern Territory,Employed full-time,1792130.384
+2010,Northern Territory,Employed part-time,387823.9343
+2010,Northern Territory,Unemployed,33451.89486
+2010,Queensland,Employed full-time,35242539.68
+2010,Queensland,Employed part-time,14773993.18
+2010,Queensland,Unemployed,2641217.539
+2010,South Australia,Employed full-time,10787384.82
+2010,South Australia,Employed part-time,5531032.827
+2010,South Australia,Unemployed,819830.5458
+2010,Tasmania,Employed full-time,2871652.689
+2010,Tasmania,Employed part-time,1711029.263
+2010,Tasmania,Unemployed,194137.0309
+2010,Victoria,Employed full-time,42449606.18
+2010,Victoria,Employed part-time,19398921.43
+2010,Victoria,Unemployed,3093229.659
+2010,Western Australia,Employed full-time,18385687.58
+2010,Western Australia,Employed part-time,7840570.794
+2010,Western Australia,Unemployed,970933.7803
+2011,Australian Capital Territory,Employed full-time,2595936.091
+2011,Australian Capital Territory,Employed part-time,898348.6053
+2011,Australian Capital Territory,Unemployed,97776.52616
+2011,New South Wales,Employed full-time,55983136.75
+2011,New South Wales,Employed part-time,23922661.73
+2011,New South Wales,Unemployed,4054843.37
+2011,Northern Territory,Employed full-time,1697034.032
+2011,Northern Territory,Employed part-time,430708.2692
+2011,Northern Territory,Unemployed,42585.00992
+2011,Queensland,Employed full-time,36667084.65
+2011,Queensland,Employed part-time,14492360.73
+2011,Queensland,Unemployed,2600346.119
+2011,South Australia,Employed full-time,11120682.26
+2011,South Australia,Employed part-time,5887803.225
+2011,South Australia,Unemployed,768514.1537
+2011,Tasmania,Employed full-time,2856031.23
+2011,Tasmania,Employed part-time,1579169.007
+2011,Tasmania,Unemployed,189954.0732
+2011,Victoria,Employed full-time,44260179.61
+2011,Victoria,Employed part-time,19606033.67
+2011,Victoria,Unemployed,2822413.58
+2011,Western Australia,Employed full-time,19251853.63
+2011,Western Australia,Employed part-time,7652517.392
+2011,Western Australia,Unemployed,1031980.001
+2012,Australian Capital Territory,Employed full-time,2661761.565
+2012,Australian Capital Territory,Employed part-time,944425.7355
+2012,Australian Capital Territory,Unemployed,110103.4109
+2012,New South Wales,Employed full-time,56317796.77
+2012,New South Wales,Employed part-time,23963251.8
+2012,New South Wales,Unemployed,3838094.924
+2012,Northern Territory,Employed full-time,1878164.442
+2012,Northern Territory,Employed part-time,416708.0178
+2012,Northern Territory,Unemployed,58695.15574
+2012,Queensland,Employed full-time,36850617.43
+2012,Queensland,Employed part-time,14780046.95
+2012,Queensland,Unemployed,2874037.125
+2012,South Australia,Employed full-time,11133666.47
+2012,South Australia,Employed part-time,5968819.848
+2012,South Australia,Unemployed,870708.9195
+2012,Tasmania,Employed full-time,2716114.653
+2012,Tasmania,Employed part-time,1749353.484
+2012,Tasmania,Unemployed,283121.9477
+2012,Victoria,Employed full-time,45329320.56
+2012,Victoria,Employed part-time,20708189.74
+2012,Victoria,Unemployed,3508875.549
+2012,Western Australia,Employed full-time,20280624.7
+2012,Western Australia,Employed part-time,7901268.934
+2012,Western Australia,Unemployed,969703.7213
+2013,Australian Capital Territory,Employed full-time,2540591.696
+2013,Australian Capital Territory,Employed part-time,975074.6732
+2013,Australian Capital Territory,Unemployed,109102.2678
+2013,New South Wales,Employed full-time,55633480.32
+2013,New South Wales,Employed part-time,24882452.77
+2013,New South Wales,Unemployed,4308588.538
+2013,Northern Territory,Employed full-time,1828604.753
+2013,Northern Territory,Employed part-time,419472.5454
+2013,Northern Territory,Unemployed,75968.13533
+2013,Queensland,Employed full-time,35889355.62
+2013,Queensland,Employed part-time,14990814.66
+2013,Queensland,Unemployed,3021301.537
+2013,South Australia,Employed full-time,10363614.15
+2013,South Australia,Employed part-time,5881056.757
+2013,South Australia,Unemployed,915138.313
+2013,Tasmania,Employed full-time,2665392.446
+2013,Tasmania,Employed part-time,1657639.529
+2013,Tasmania,Unemployed,303040.4604
+2013,Victoria,Employed full-time,44138685.96
+2013,Victoria,Employed part-time,20962125.26
+2013,Victoria,Unemployed,3694980.962
+2013,Western Australia,Employed full-time,20036128.49
+2013,Western Australia,Employed part-time,8068989.278
+2013,Western Australia,Unemployed,1118684.521
+2014,Australian Capital Territory,Employed full-time,2562759.756
+2014,Australian Capital Territory,Employed part-time,900019.6069
+2014,Australian Capital Territory,Unemployed,91147.05254
+2014,New South Wales,Employed full-time,54536819.26
+2014,New South Wales,Employed part-time,24839749.51
+2014,New South Wales,Unemployed,4321755.108
+2014,Northern Territory,Employed full-time,1859642.311
+2014,Northern Territory,Employed part-time,400073.7046
+2014,Northern Territory,Unemployed,66522.4644
+2014,Queensland,Employed full-time,35465650.03
+2014,Queensland,Employed part-time,16054228.57
+2014,Queensland,Unemployed,3018960.22
+2014,South Australia,Employed full-time,10185489.48
+2014,South Australia,Employed part-time,5822787.108
+2014,South Australia,Unemployed,1006415.703
+2014,Tasmania,Employed full-time,2676558.289
+2014,Tasmania,Employed part-time,1660223.492
+2014,Tasmania,Unemployed,273513.4579
+2014,Victoria,Employed full-time,44084549.47
+2014,Victoria,Employed part-time,21479436.93
+2014,Victoria,Unemployed,4213602.757
+2014,Western Australia,Employed full-time,19372754.14
+2014,Western Australia,Employed part-time,8263389.957
+2014,Western Australia,Unemployed,1241674.249
+2015,Australian Capital Territory,Employed full-time,2425164.828
+2015,Australian Capital Territory,Employed part-time,982304.7031
+2015,Australian Capital Territory,Unemployed,109531.341
+2015,New South Wales,Employed full-time,57607972.1
+2015,New South Wales,Employed part-time,25320882.52
+2015,New South Wales,Unemployed,4422477.252
+2015,Northern Territory,Employed full-time,1993207.669
+2015,Northern Territory,Employed part-time,442818.6902
+2015,Northern Territory,Unemployed,72714.33376
+2015,Queensland,Employed full-time,34666830.68
+2015,Queensland,Employed part-time,15867568.96
+2015,Queensland,Unemployed,3004372.025
+2015,South Australia,Employed full-time,10350889.4
+2015,South Australia,Employed part-time,5914199.357
+2015,South Australia,Unemployed,1092654.551
+2015,Tasmania,Employed full-time,2702972.61
+2015,Tasmania,Employed part-time,1642913.815
+2015,Tasmania,Unemployed,219287.9055
+2015,Victoria,Employed full-time,44409370.5
+2015,Victoria,Employed part-time,22687162.2
+2015,Victoria,Unemployed,3791346.024
+2015,Western Australia,Employed full-time,18605769.16
+2015,Western Australia,Employed part-time,8482551.407
+2015,Western Australia,Unemployed,1377996.382
+2016,Australian Capital Territory,Employed full-time,2559179.029
+2016,Australian Capital Territory,Employed part-time,994079.6867
+2016,Australian Capital Territory,Unemployed,72755.03719
+2016,New South Wales,Employed full-time,57862489.3
+2016,New South Wales,Employed part-time,27522685.81
+2016,New South Wales,Unemployed,4082159.043
+2016,Northern Territory,Employed full-time,2023853.856
+2016,Northern Territory,Employed part-time,477718.9633
+2016,Northern Territory,Unemployed,62617.17307
+2016,Queensland,Employed full-time,35722548.11
+2016,Queensland,Employed part-time,16236577.33
+2016,Queensland,Unemployed,3044024.572
+2016,South Australia,Employed full-time,10574514.61
+2016,South Australia,Employed part-time,6107675.054
+2016,South Australia,Unemployed,988135.3585
+2016,Tasmania,Employed full-time,2667850.998
+2016,Tasmania,Employed part-time,1642707.681
+2016,Tasmania,Unemployed,224381.2457
+2016,Victoria,Employed full-time,46719816.14
+2016,Victoria,Employed part-time,23226796.27
+2016,Victoria,Unemployed,3620657.013
+2016,Western Australia,Employed full-time,17962292.25
+2016,Western Australia,Employed part-time,8868861.188
+2016,Western Australia,Unemployed,1440879.169
+2017,Australian Capital Territory,Employed full-time,2695969.536
+2017,Australian Capital Territory,Employed part-time,1050087.213
+2017,Australian Capital Territory,Unemployed,106548.7527
+2017,New South Wales,Employed full-time,60693460.38
+2017,New South Wales,Employed part-time,26941997.3
+2017,New South Wales,Unemployed,3833982.659
+2017,Northern Territory,Employed full-time,1859809.73
+2017,Northern Territory,Employed part-time,513428.9538
+2017,Northern Territory,Unemployed,64403.34099
+2017,Queensland,Employed full-time,36307269.69
+2017,Queensland,Employed part-time,17175848.96
+2017,Queensland,Unemployed,3168243.806
+2017,South Australia,Employed full-time,10528784.64
+2017,South Australia,Employed part-time,6214913.004
+2017,South Australia,Unemployed,924520.3864
+2017,Tasmania,Employed full-time,2679361.205
+2017,Tasmania,Employed part-time,1843176.653
+2017,Tasmania,Unemployed,214760.3587
+2017,Victoria,Employed full-time,47753422.52
+2017,Victoria,Employed part-time,24260828.45
+2017,Victoria,Unemployed,4182129.294
+2017,Western Australia,Employed full-time,18283894.82
+2017,Western Australia,Employed part-time,9052925.899
+2017,Western Australia,Unemployed,1424247.832
+2018,Australian Capital Territory,Employed full-time,2698683.716
+2018,Australian Capital Territory,Employed part-time,1044465.923
+2018,Australian Capital Territory,Unemployed,87291.7251
+2018,New South Wales,Employed full-time,62375547.41
+2018,New South Wales,Employed part-time,28628348.93
+2018,New South Wales,Unemployed,3752840.327
+2018,Northern Territory,Employed full-time,1896424.831
+2018,Northern Territory,Employed part-time,498571.3717
+2018,Northern Territory,Unemployed,65728.83747
+2018,Queensland,Employed full-time,36714733.35
+2018,Queensland,Employed part-time,17576194.88
+2018,Queensland,Unemployed,3160087.919
+2018,South Australia,Employed full-time,10403654.56
+2018,South Australia,Employed part-time,6177567.813
+2018,South Australia,Unemployed,791650.726
+2018,Tasmania,Employed full-time,2842168.787
+2018,Tasmania,Employed part-time,1847180.582
+2018,Tasmania,Unemployed,201350.7852
+2018,Victoria,Employed full-time,49167810.85
+2018,Victoria,Employed part-time,24413127.74
+2018,Victoria,Unemployed,3187758.241
+2018,Western Australia,Employed full-time,18546460.45
+2018,Western Australia,Employed part-time,9386727.833
+2018,Western Australia,Unemployed,1519505.879
+2019,Australian Capital Territory,Employed full-time,2740520.959
+2019,Australian Capital Territory,Employed part-time,1065582.469
+2019,Australian Capital Territory,Unemployed,69378.47591
+2019,New South Wales,Employed full-time,63553595.12
+2019,New South Wales,Employed part-time,28610089.71
+2019,New South Wales,Unemployed,3778223.035
+2019,Northern Territory,Employed full-time,1793957.352
+2019,Northern Territory,Employed part-time,489447.0406
+2019,Northern Territory,Unemployed,70341.18655
+2019,Queensland,Employed full-time,37392575.22
+2019,Queensland,Employed part-time,17681946.74
+2019,Queensland,Unemployed,3256436.581
+2019,South Australia,Employed full-time,10706242.68
+2019,South Australia,Employed part-time,6388298.833
+2019,South Australia,Unemployed,864147.6937
+2019,Tasmania,Employed full-time,2784178.757
+2019,Tasmania,Employed part-time,1946130.732
+2019,Tasmania,Unemployed,239184.0837
+2019,Victoria,Employed full-time,50626193.2
+2019,Victoria,Employed part-time,24669992.52
+2019,Victoria,Unemployed,3190787.249
+2019,Western Australia,Employed full-time,19144606.71
+2019,Western Australia,Employed part-time,9368408.157
+2019,Western Australia,Unemployed,1386258.706
+2020,Australian Capital Territory,Employed full-time,2795831.019
+2020,Australian Capital Territory,Employed part-time,1032670.012
+2020,Australian Capital Territory,Unemployed,86455.38191
+2020,New South Wales,Employed full-time,63153783.82
+2020,New South Wales,Employed part-time,28205540.74
+2020,New South Wales,Unemployed,5496149.405
+2020,Northern Territory,Employed full-time,1750891.039
+2020,Northern Territory,Employed part-time,550290.9278
+2020,Northern Territory,Unemployed,79733.19244
+2020,Queensland,Employed full-time,37117858.24
+2020,Queensland,Employed part-time,18387616.58
+2020,Queensland,Unemployed,3577781.538
+2020,South Australia,Employed full-time,11223018.72
+2020,South Australia,Employed part-time,6461961.125
+2020,South Australia,Unemployed,1051864.174
+2020,Tasmania,Employed full-time,2829451.317
+2020,Tasmania,Employed part-time,1892258.111
+2020,Tasmania,Unemployed,273107.5111
+2020,Victoria,Employed full-time,50229371.96
+2020,Victoria,Employed part-time,24628399.34
+2020,Victoria,Unemployed,4369507.986
+2020,Western Australia,Employed full-time,18956384.12
+2020,Western Australia,Employed part-time,9624807.092
+2020,Western Australia,Unemployed,1705812.695
+2021,Australian Capital Territory,Employed full-time,763974.9836
+2021,Australian Capital Territory,Employed part-time,257836.2443
+2021,Australian Capital Territory,Unemployed,24719.27047
+2021,New South Wales,Employed full-time,15853550.44
+2021,New South Wales,Employed part-time,7455042.021
+2021,New South Wales,Unemployed,1208383.444
+2021,Northern Territory,Employed full-time,430696.9503
+2021,Northern Territory,Employed part-time,151724.5613
+2021,Northern Territory,Unemployed,26201.8108
+2021,Queensland,Employed full-time,9014668.651
+2021,Queensland,Employed part-time,5106700.118
+2021,Queensland,Unemployed,910589.0086
+2021,South Australia,Employed full-time,2717596.249
+2021,South Australia,Employed part-time,1620229.847
+2021,South Australia,Unemployed,262421.0732
+2021,Tasmania,Employed full-time,729900.4588
+2021,Tasmania,Employed part-time,512365.2065
+2021,Tasmania,Unemployed,64990.58256
+2021,Victoria,Employed full-time,12447033.95
+2021,Victoria,Employed part-time,6447278.829
+2021,Victoria,Unemployed,1216510.719
+2021,Western Australia,Employed full-time,4838677.545
+2021,Western Australia,Employed part-time,2735849.326
+2021,Western Australia,Unemployed,289029.178
