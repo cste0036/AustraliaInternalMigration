@@ -288,7 +288,7 @@ function draw_circles(dataset) {
  * https://github.com/rowanhogan/australian-states/blob/master/states.geojson?short_path=7e3fe8e
  */
 function render_map() {
-    d3.json("json/Australia.json", function(json) {
+    d3.json("Json/Australia.json", function(json) {
         // Add the Australian path lines to the SVG canvas
         map_svg.append("g")
             .selectAll("path")
