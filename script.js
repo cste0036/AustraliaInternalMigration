@@ -51,9 +51,9 @@ var donut_h = 500 - margin.top - margin.bottom;
 var radius = Math.min(donut_w, donut_h) / 3;
 
 // Data Directory and dataset variables
-const MIGRATION_PATH = "../data/MigrationData/";
-const HOUSING_PATH = "../data/HousingPriceData/";
-const INDUSTRY_PATH = "../data/IndustryData/";
+const MIGRATION_PATH = "data/MigrationData/";
+const HOUSING_PATH = "data/HousingPriceData/";
+const INDUSTRY_PATH = "data/IndustryData/";
 var color;
 var map_svg;
 var bar_svg;
